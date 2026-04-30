@@ -2,6 +2,14 @@
 > Click on any link below to start downloading directly.<br><br/>
 
 
+### 📅 2026-04-30 13:08 IR
+- 📱 [VaydnsVpn-v1.7.7-arm64-v8a.apk](https://github.com/ConfigWireguard/sandbox/raw/main/dl/VaydnsVpn-v1.7.7-arm64-v8a.apk) `10.4MB`
+
+- 📱 [VaydnsVpn-v1.7.7-armeabi-v7a.apk](https://github.com/ConfigWireguard/sandbox/raw/main/dl/VaydnsVpn-v1.7.7-armeabi-v7a.apk) `10.5MB`
+
+---
+
+
 ## MHRV-RS v1.9.1
 📅 2026-04-30 09:49 IR
 - 📱 [mhrv-rs-android-arm64-v8a-v1.9.1.apk](https://github.com/ConfigWireguard/sandbox/raw/main/dl/mhrv-rs-android-arm64-v8a-v1.9.1.apk) `18.1MB`
