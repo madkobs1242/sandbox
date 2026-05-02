@@ -2,6 +2,12 @@
 > Click on any link below to start downloading directly.<br><br/>
 
 
+### 📅 2026-05-02 17:05 IR
+- 🎬 [video_2026-05-02_03-28-40.mp4](https://github.com/ConfigWireguard/sandbox/raw/main/dl/video_2026-05-02_03-28-40.mp4) `28.3MB`
+
+---
+
+
 ### 📅 2026-05-01 13:47 IR
 - 📱 [mhrv-rs-android-arm64-v8a-v1.9.4.apk](https://github.com/ConfigWireguard/sandbox/raw/main/dl/mhrv-rs-android-arm64-v8a-v1.9.4.apk) `18.1MB`
 
