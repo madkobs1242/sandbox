@@ -11,11 +11,7 @@
 ### 📅 2026-05-04 17:48 IR
 - 📱 [Psiphon v462 Mod.apk](https://github.com/ConfigWireguard/sandbox/raw/main/dl/Psiphon%20v462%20Mod.apk) `25.1MB`
 
-- 📱 [PsiphonAndroid.1.apk](https://github.com/ConfigWireguard/sandbox/raw/main/dl/PsiphonAndroid.1.apk) `21.9MB`
-
 - 📱 [PsiphonAndroid.apk](https://github.com/ConfigWireguard/sandbox/raw/main/dl/PsiphonAndroid.apk) `21.9MB`
-
-- 📥 [psiphon3.1.exe](https://github.com/ConfigWireguard/sandbox/raw/main/dl/psiphon3.1.exe) `9.9MB`
 
 - 📥 [psiphon3.exe](https://github.com/ConfigWireguard/sandbox/raw/main/dl/psiphon3.exe) `9.9MB`
 
@@ -93,18 +89,6 @@
 ---
 
 
-### 📅 2026-05-01 13:47 IR
-- 📱 [mhrv-rs-android-arm64-v8a-v1.9.4.apk](https://github.com/ConfigWireguard/sandbox/raw/main/dl/mhrv-rs-android-arm64-v8a-v1.9.4.apk) `18.1MB`
-
-- 📱 [mhrv-rs-android-armeabi-v7a-v1.9.4.apk](https://github.com/ConfigWireguard/sandbox/raw/main/dl/mhrv-rs-android-armeabi-v7a-v1.9.4.apk) `15.8MB`
-
-- 📱 [mhrv-rs-android-universal-v1.9.4.apk](https://github.com/ConfigWireguard/sandbox/raw/main/dl/mhrv-rs-android-universal-v1.9.4.apk) `39.1MB`
-
-- 🗜️ [mhrv-rs-windows-amd64.zip](https://github.com/ConfigWireguard/sandbox/raw/main/dl/mhrv-rs-windows-amd64.zip) `7.0MB`
-
----
-
-
 ### 📅 2026-05-01 10:11 IR
 - 🎬 [آموزش جامع ساخت فیلترشکن شخصی رایگان با گوگل و کلودفلر، متد MHR-CFW.mp4](https://github.com/ConfigWireguard/sandbox/raw/main/dl/%D8%A2%D9%85%D9%88%D8%B2%D8%B4%20%D8%AC%D8%A7%D9%85%D8%B9%20%D8%B3%D8%A7%D8%AE%D8%AA%20%D9%81%DB%8C%D9%84%D8%AA%D8%B1%D8%B4%DA%A9%D9%86%20%D8%B4%D8%AE%D8%B5%DB%8C%20%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86%20%D8%A8%D8%A7%20%DA%AF%D9%88%DA%AF%D9%84%20%D9%88%20%DA%A9%D9%84%D9%88%D8%AF%D9%81%D9%84%D8%B1%D8%8C%20%D9%85%D8%AA%D8%AF%20MHR-CFW.mp4) `66.5MB`
 
@@ -123,27 +107,6 @@
 - 📱 [v2rayNG_2.1.4_armeabi-v7a.apk](https://github.com/ConfigWireguard/sandbox/raw/main/dl/v2rayNG_2.1.4_armeabi-v7a.apk) `27.2MB`
 
 - 📱 [v2rayNG_2.1.4_universal.apk](https://github.com/ConfigWireguard/sandbox/raw/main/dl/v2rayNG_2.1.4_universal.apk) `61.8MB`
-
----
-
-
-### 📅 2026-04-30 13:08 IR
-- 📱 [VaydnsVpn-v1.7.7-arm64-v8a.apk](https://github.com/ConfigWireguard/sandbox/raw/main/dl/VaydnsVpn-v1.7.7-arm64-v8a.apk) `10.4MB`
-
-- 📱 [VaydnsVpn-v1.7.7-armeabi-v7a.apk](https://github.com/ConfigWireguard/sandbox/raw/main/dl/VaydnsVpn-v1.7.7-armeabi-v7a.apk) `10.5MB`
-
----
-
-
-## MHRV-RS v1.9.1
-📅 2026-04-30 09:49 IR
-- 📱 [mhrv-rs-android-arm64-v8a-v1.9.1.apk](https://github.com/ConfigWireguard/sandbox/raw/main/dl/mhrv-rs-android-arm64-v8a-v1.9.1.apk) `18.1MB`
-
-- 📱 [mhrv-rs-android-armeabi-v7a-v1.9.1.apk](https://github.com/ConfigWireguard/sandbox/raw/main/dl/mhrv-rs-android-armeabi-v7a-v1.9.1.apk) `15.8MB`
-
-- 📱 [mhrv-rs-android-universal-v1.9.1.apk](https://github.com/ConfigWireguard/sandbox/raw/main/dl/mhrv-rs-android-universal-v1.9.1.apk) `39.0MB`
-
-- 🗜️ [mhrv-rs-windows-amd64.zip](https://github.com/ConfigWireguard/sandbox/raw/main/dl/mhrv-rs-windows-amd64.zip) `6.9MB`
 
 ---
 
