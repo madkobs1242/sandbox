@@ -2,6 +2,16 @@
 > Click on any link below to start downloading directly.<br><br/>
 
 
+### 📅 2026-05-08 16:38 IR
+- 📱 [WhiteDNS-Beta6-arm64-v8a.apk](https://github.com/ConfigWireguard/sandbox/raw/main/dl/WhiteDNS-Beta6-arm64-v8a.apk) `22.2MB`
+
+- 📱 [WhiteDNS-Beta6-armeabi-v7a.apk](https://github.com/ConfigWireguard/sandbox/raw/main/dl/WhiteDNS-Beta6-armeabi-v7a.apk) `22.0MB`
+
+- 📱 [WhiteDNS-Beta6-universal.apk](https://github.com/ConfigWireguard/sandbox/raw/main/dl/WhiteDNS-Beta6-universal.apk) `34.3MB`
+
+---
+
+
 ### 📅 2026-05-07 12:22 IR
 - 📱 [mhrv-rs-android-arm64-v8a-v1.9.15.apk](https://github.com/ConfigWireguard/sandbox/raw/main/dl/mhrv-rs-android-arm64-v8a-v1.9.15.apk) `18.6MB`
 
