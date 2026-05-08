@@ -2,6 +2,14 @@
 > Click on any link below to start downloading directly.<br><br/>
 
 
+### 📅 2026-05-08 19:29 IR
+- 📱 [ZedSecure-v1.9.0-arm64-v8a.apk](https://github.com/ConfigWireguard/sandbox/raw/main/dl/ZedSecure-v1.9.0-arm64-v8a.apk) `38.8MB`
+
+- 📱 [ZedSecure-v1.9.0-armeabi-v7a.apk](https://github.com/ConfigWireguard/sandbox/raw/main/dl/ZedSecure-v1.9.0-armeabi-v7a.apk) `35.6MB`
+
+---
+
+
 ### 📅 2026-05-08 16:38 IR
 - 📱 [WhiteDNS-Beta6-arm64-v8a.apk](https://github.com/ConfigWireguard/sandbox/raw/main/dl/WhiteDNS-Beta6-arm64-v8a.apk) `22.2MB`
 
