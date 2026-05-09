@@ -2,11 +2,6 @@
 > Click on any link below to start downloading directly.<br><br/>
 
 
-### 📅 2026-05-09 20:31 IR
-- 🎬 [روشی_دیگه_برای_رسیدن_به_اینترنت_از_روی_گیت‌هاب،_g2ray.mp4](https://github.com/ConfigWireguard/sandbox/raw/main/dl/%D8%B1%D9%88%D8%B4%DB%8C_%D8%AF%DB%8C%DA%AF%D9%87_%D8%A8%D8%B1%D8%A7%DB%8C_%D8%B1%D8%B3%DB%8C%D8%AF%D9%86_%D8%A8%D9%87_%D8%A7%DB%8C%D9%86%D8%AA%D8%B1%D9%86%D8%AA_%D8%A7%D8%B2_%D8%B1%D9%88%DB%8C_%DA%AF%DB%8C%D8%AA%E2%80%8C%D9%87%D8%A7%D8%A8%D8%8C_g2ray.mp4) `26.5MB`
-
----
-
 
 ### 📅 2026-05-09 11:21 IR
 - 📱 [WhiteDNS-Beta7-arm64-v8a.apk](https://github.com/ConfigWireguard/sandbox/raw/main/dl/WhiteDNS-Beta7-arm64-v8a.apk) `22.3MB`
