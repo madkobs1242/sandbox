@@ -2,6 +2,12 @@
 > Click on any link below to start downloading directly.<br><br/>
 
 
+### 📅 2026-05-12 09:29 IR
+- 🎬 [amozesh whitedns.mp4](https://github.com/ConfigWireguard/sandbox/raw/main/dl/amozesh%20whitedns.mp4) `7.7MB`
+
+---
+
+
 ### 📅 2026-05-12 09:15 IR
 - 📱 [WhiteDNS-1.2.0-arm64-v8a.apk](https://github.com/ConfigWireguard/sandbox/raw/main/dl/WhiteDNS-1.2.0-arm64-v8a.apk) `5.1MB`
 
