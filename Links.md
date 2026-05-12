@@ -2,6 +2,16 @@
 > Click on any link below to start downloading directly.<br><br/>
 
 
+### 📅 2026-05-12 09:15 IR
+- 📱 [WhiteDNS-1.2.0-arm64-v8a.apk](https://github.com/ConfigWireguard/sandbox/raw/main/dl/WhiteDNS-1.2.0-arm64-v8a.apk) `5.1MB`
+
+- 📱 [WhiteDNS-1.2.0-armeabi-v7a.apk](https://github.com/ConfigWireguard/sandbox/raw/main/dl/WhiteDNS-1.2.0-armeabi-v7a.apk) `4.9MB`
+
+- 📱 [WhiteDNS-1.2.0-universal.apk](https://github.com/ConfigWireguard/sandbox/raw/main/dl/WhiteDNS-1.2.0-universal.apk) `16.3MB`
+
+---
+
+
 ### 📅 2026-05-10 15:56 IR
 - 📱 [WhiteDNS-1.0.0-arm64-v8a.apk](https://github.com/ConfigWireguard/sandbox/raw/main/dl/WhiteDNS-1.0.0-arm64-v8a.apk) `5.0MB`
 
