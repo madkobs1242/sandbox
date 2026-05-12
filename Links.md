@@ -12,16 +12,6 @@
 ---
 
 
-### 📅 2026-05-10 15:56 IR
-- 📱 [WhiteDNS-1.0.0-arm64-v8a.apk](https://github.com/ConfigWireguard/sandbox/raw/main/dl/WhiteDNS-1.0.0-arm64-v8a.apk) `5.0MB`
-
-- 📱 [WhiteDNS-1.0.0-armeabi-v7a.apk](https://github.com/ConfigWireguard/sandbox/raw/main/dl/WhiteDNS-1.0.0-armeabi-v7a.apk) `4.9MB`
-
-- 📱 [WhiteDNS-1.0.0-universal.apk](https://github.com/ConfigWireguard/sandbox/raw/main/dl/WhiteDNS-1.0.0-universal.apk) `16.2MB`
-
----
-
-
 ### 📅 2026-05-10 10:29 IR
 - 📱 [v2rayNG_2.1.7_arm64-v8a.apk](https://github.com/ConfigWireguard/sandbox/raw/main/dl/v2rayNG_2.1.7_arm64-v8a.apk) `26.8MB`
 
