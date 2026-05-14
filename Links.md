@@ -2,6 +2,12 @@
 > Click on any link below to start downloading directly.<br><br/>
 
 
+### 📅 2026-05-14 03:34 IR
+- 🎬 [اموزش_نصب_پنل_سنایی_در_شرایط_اینترنت_ملی_روی_سرور_از_صفر_تا_صد_قدم_به_قدم_خرید_سرور_و_نصب_پنل.mp4](https://github.com/madkobs1242/sandbox/raw/main/dl/%D8%A7%D9%85%D9%88%D8%B2%D8%B4_%D9%86%D8%B5%D8%A8_%D9%BE%D9%86%D9%84_%D8%B3%D9%86%D8%A7%DB%8C%DB%8C_%D8%AF%D8%B1_%D8%B4%D8%B1%D8%A7%DB%8C%D8%B7_%D8%A7%DB%8C%D9%86%D8%AA%D8%B1%D9%86%D8%AA_%D9%85%D9%84%DB%8C_%D8%B1%D9%88%DB%8C_%D8%B3%D8%B1%D9%88%D8%B1_%D8%A7%D8%B2_%D8%B5%D9%81%D8%B1_%D8%AA%D8%A7_%D8%B5%D8%AF_%D9%82%D8%AF%D9%85_%D8%A8%D9%87_%D9%82%D8%AF%D9%85_%D8%AE%D8%B1%DB%8C%D8%AF_%D8%B3%D8%B1%D9%88%D8%B1_%D9%88_%D9%86%D8%B5%D8%A8_%D9%BE%D9%86%D9%84.mp4) `12.5MB`
+
+---
+
+
 ### 📅 2026-05-12 17:58 IR
 - 📱 [MattDownloader-v1.0.0.apk](https://github.com/ConfigWireguard/sandbox/raw/main/dl/MattDownloader-v1.0.0.apk) `30.6MB`
 
